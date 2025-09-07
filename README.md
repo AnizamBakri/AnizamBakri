@@ -36,7 +36,7 @@ I'm passionate about building robust test automation frameworks and ensuring sof
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anizam Bakri&show_icons=true&theme=default" alt="Your GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
